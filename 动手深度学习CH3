@@ -1,1 +1,8 @@
-## 动手深度学习
+"""导入必要的库"""
+%matplotlib inline
+import random
+import torch
+from d2l import torch as d2l
+import matplotlib.pyplot as plt
+import time
+import pandas as pd
